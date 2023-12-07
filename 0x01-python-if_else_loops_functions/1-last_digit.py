@@ -7,3 +7,5 @@ elif number == 0:
     print(f"and is 0")
 elif number < 6 and not 0:
     print(f" and is less than 6 and not 0")
+else:
+    print(f"Last digit of {number} is {last_num} and is less than 6 and not 0")
