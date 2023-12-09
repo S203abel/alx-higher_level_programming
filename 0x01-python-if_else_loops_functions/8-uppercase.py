@@ -2,5 +2,5 @@
 def uppercase(str):
     result = ''
     for char in str:
-        result += char.upper()
+        result += chr.upper()
     return result
